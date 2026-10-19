@@ -1,4 +1,4 @@
-
+   DROP DATABASE IF EXISTS CompanyDB;
 -- 1. Create the database
 CREATE DATABASE CompanyDB;
 -- 2. Select/use the database
